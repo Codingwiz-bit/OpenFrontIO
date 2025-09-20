@@ -33,7 +33,7 @@
     },
     {
       "coordinates": [825, 352],
-      "name": "Libyan Arab Jamahiriya",
+      "name": "Libya",
       "strength": 1,
       "flag": "ly"
     },
@@ -51,7 +51,7 @@
     },
     {
       "coordinates": [1409, 372],
-      "name": "Palestinian Territory",
+      "name": "Palestine",
       "strength": 1,
       "flag": "ps"
     },
@@ -69,7 +69,7 @@
     },
     {
       "coordinates": [1500, 221],
-      "name": "Syrian Arab Republic",
+      "name": "Syria",
       "strength": 1,
       "flag": "sy"
     },
@@ -111,7 +111,7 @@
     },
     {
       "coordinates": [1948, 333],
-      "name": "Islamic Republic of Iran",
+      "name": "Iran",
       "strength": 3,
       "flag": "ir"
     },
