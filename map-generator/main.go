@@ -40,6 +40,7 @@ var maps = []struct {
 	{Name: "italia"},
 	{Name: "straitofgibraltar"},
 	{Name: "pluto"},
+  {Name: "lisbon"},
 	{Name: "big_plains", IsTest: true},
 	{Name: "half_land_half_ocean", IsTest: true},
 	{Name: "ocean_and_land", IsTest: true},
